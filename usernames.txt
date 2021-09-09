@@ -1,0 +1,11 @@
+student
+mysql
+info
+postgres
+root
+guest
+oracle
+user
+admin
+test
+teacher
